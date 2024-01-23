@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Sincronizando Antepasados","Explorando Atalayas","Desincronizando"];
+const statusMessages = ["Sincronizando Antepasados","Explorando Atalayas","Desincronizando Antepasado"];
 
 
 let currentIndex = 0;
